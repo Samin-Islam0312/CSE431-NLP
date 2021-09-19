@@ -1,0 +1,10 @@
+Venue: AAAI-22 Student Abstract and Poster Program
+       https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/
+
+Submission_date:17 September, 2021.
+Paper_type: Abstract
+
+Authors: Samin Islam(ID - 18101444)
+         Nazmus Sakib Saad(ID - 18101562)
+         Md. Sabbir Hossain(Course ST)
+         Annajiat Alim Rasel(Course Instructor)
